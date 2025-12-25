@@ -88,9 +88,7 @@ function initializeLetter() {
 
         if (accion === 'abrir') {
             envoltura.classList.add('abierto');
-            if (sonido && sonido.paused) {
-                sonido.play().catch(() => {});
-            }
+            sonido.play().catch(e => console.log("La reproducción automática fue bloqueada."));
 
             crearEfectosAscendentes();
 
@@ -220,6 +218,4 @@ function initializeLetter() {
             contenedor.innerHTML = '';
         }
     }
-
 }
-
