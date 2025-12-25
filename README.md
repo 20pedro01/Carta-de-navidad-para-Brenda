@@ -1,3 +1,5 @@
+Este proyecto fue creado como un detalle personal, combinando programación y creatividad para transmitir un mensaje navideño de forma especial.
+
 # 🎄 Carta de Navidad Especial
 
 ¡Feliz Navidad! Este proyecto es una tarjeta digital animada creada con mucho cariño.
@@ -22,5 +24,6 @@
 3.  ¡Disfruta de la animación! (Haz clic en la página para iniciar la música si no se reproduce automáticamente).
 
 ## 🌐 Ver online con GitHub Pages
+
 
 Este proyecto está diseñado para ser visualizado fácilmente a través de GitHub Pages. Una vez subido a GitHub, puedes activar la opción en `Settings > Pages` para obtener un enlace público y compartirlo.
