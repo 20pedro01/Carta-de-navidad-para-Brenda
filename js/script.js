@@ -117,7 +117,6 @@ function initializeLetter() {
             envoltura.classList.add('cerrando');
             if (sonido) {
                 sonido.pause();
-                sonido.currentTime = 0;
             }
 
             limpiarEfectosAscendentes();
@@ -219,4 +218,5 @@ function initializeLetter() {
             contenedor.innerHTML = '';
         }
     }
+
 }
