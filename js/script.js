@@ -187,7 +187,7 @@ function initializeLetter() {
         const contenedor = document.getElementById('efectos-ascendentes');
         if (!contenedor) return;
         const cantidad = 25;
-        const emojis = ['🎄', '🦌', '🎁', '❄️', '⛄', '🎅', '⭐', '🔔'];
+        const emojis = ['🎄', '🦌', '🎁', '❄️', '⛄', '⭐', '🔔'];
 
         for (let i = 0; i < cantidad; i++) {
             const efecto = document.createElement('div');
@@ -219,3 +219,4 @@ function initializeLetter() {
         }
     }
 }
+
